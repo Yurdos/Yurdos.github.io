@@ -10,8 +10,7 @@ title: Yurdosii or simplier Yurka
 email: south_farsh@ukr.net
 description: > # this means to ignore newlines until "baseurl:"
  I HAVE MADE THIS SITE ALMOST BY MYSELF.OOO what to say? i dont know i can say that i have just finished school and have passed final exams.
-You can edit this
-  line in _config.yml. It will appear in your document head meta (for
+You can edit this  line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
